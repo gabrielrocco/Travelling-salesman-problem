@@ -42,3 +42,23 @@ It starts comparing the second element of the array (index = 1) **and** and ever
 > **Note:**
 **dist:distance**
 **it:iterations**
+
+
+#  Images - Test 300 points
+
+**Drawing Points on the Screen**
+
+<img src="https://github.com/gabrielrocco/Travelling-salesman-problem/blob/master/Images/drawing.png" alt="drawing points" width="500" height="400">
+
+**Drawing Path randomly**
+
+<img src="https://github.com/gabrielrocco/Travelling-salesman-problem/blob/master/Images/random.png" alt="random path" width="500" height="400">
+
+
+**Drawing Path after algorithm execution**
+
+<img src="https://github.com/gabrielrocco/Travelling-salesman-problem/blob/master/Images/2.png" alt="algo path" width="500" height="400">
+
+**Statistics for 300 points**
+
+<img src="https://github.com/gabrielrocco/Travelling-salesman-problem/blob/master/Images/test300.png" alt="test300" width="500" height="200">
