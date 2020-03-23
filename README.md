@@ -62,3 +62,8 @@ It starts comparing the second element of the array (index = 1) **and** and ever
 **Statistics for 300 points**
 
 <img src="https://github.com/gabrielrocco/Travelling-salesman-problem/blob/master/Images/test300.png" alt="test300" width="500" height="200">
+
+
+**Statistics for 20.000 points**
+
+<img src="https://github.com/gabrielrocco/Travelling-salesman-problem/blob/master/Images/20k.png" alt="test20k" width="500" height="200">
