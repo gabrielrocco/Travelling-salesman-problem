@@ -1,2 +1,2 @@
-# Travelling-salesman-problem
-solution proposal of the Travelling Salesman Problem
+# Travelling salesman problem
+Using greedy algorithm
