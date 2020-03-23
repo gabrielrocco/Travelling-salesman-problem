@@ -58,10 +58,6 @@ def get_distance(p1,p2):
 def proximity_Algo():
     total_iterations = 0
     
-    temp_index = 0
-    menor_d_temp = get_distance(places[0],places[1])
-    
-    
     for i in range(1,len(places)-1):
         for d in range(i,len(places)-1):
              total_iterations += 1
