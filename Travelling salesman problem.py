@@ -106,7 +106,7 @@ proximity_Algo()
 print("Redrawing the path using results")
 tl.speed(3)
 draw_path()
-print("Now the path is ", dist_base/distancia, " faster")   
+print("Now the path is ", dist_base/distancia, "x faster")   
     
 
 
